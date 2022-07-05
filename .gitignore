@@ -130,3 +130,6 @@ dmypy.json
 
 # Help
 examples/
+
+# data
+data/
