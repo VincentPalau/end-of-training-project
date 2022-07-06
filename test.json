@@ -1,0 +1,3428 @@
+[
+    {
+        "id": 10004041,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/100x100/02080df5d701f1647dcfa4d803ee9946.jpg?cache=20220706115953",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/300x300/02080df5d701f1647dcfa4d803ee9946.jpg?cache=20220706115953",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/736x736/02080df5d701f1647dcfa4d803ee9946.jpg?cache=20220706115953",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/100x100/f5e48ca1a905d2e810ab0865df6ee031.jpg?cache=20220706115953",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/300x300/f5e48ca1a905d2e810ab0865df6ee031.jpg?cache=20220706115953",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/736x736/f5e48ca1a905d2e810ab0865df6ee031.jpg?cache=20220706115953",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/100x100/e15a060fa0906ffbd061ca1888b77e9d.jpg?cache=20220706115953",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/300x300/e15a060fa0906ffbd061ca1888b77e9d.jpg?cache=20220706115953",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/ed16d9a8-9ab3-4389-aeea-23ab9505685f/736x736/e15a060fa0906ffbd061ca1888b77e9d.jpg?cache=20220706115953",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Flemish Brabant",
+                "district": "Leuven",
+                "locality": "Leuven",
+                "postalCode": "3010",
+                "street": "Alfons Roelandtsstraat",
+                "number": "9",
+                "box": "1",
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 50.8904017,
+                "longitude": 4.7259424,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": null,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 950,
+                "monthlyRentalCosts": 150,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 950,
+            "alternativeValue": null,
+            "additionalValue": 150,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac950 (+ \u20ac150)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac950 (+ \u20ac150)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac950",
+            "accessibilityPrice": "950\u20ac + 150\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004040,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1925926.gif?cache=2021251009683",
+        "customerName": "Real Estate Project",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/10004040_1.gif?cache=20220706120348",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/M_10004040_1.jpg?cache=20220706120348",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/10004040_1.jpg?cache=20220706120348",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/10004040_2.gif?cache=20220706120348",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/M_10004040_2.jpg?cache=20220706120348",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/10004040_2.jpg?cache=20220706120348",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/10004040_3.gif?cache=20220706120348",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/M_10004040_3.jpg?cache=20220706120348",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/4/0/10004040_3.jpg?cache=20220706120348",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "FLAGEY / JOURDAN UNFURNISHED APARTMENT 1 BEDROOM !",
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Etterbeek",
+                "postalCode": "1040",
+                "street": "Rue de Haerne",
+                "number": "181",
+                "box": "3",
+                "propertyName": null,
+                "floor": 3,
+                "latitude": 50.8280442,
+                "longitude": 4.385585,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": "Bruxelles (19 communes)"
+            },
+            "netHabitableSurface": 57,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1000,
+                "monthlyRentalCosts": 75,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1000,
+            "alternativeValue": null,
+            "additionalValue": 75,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,000 (+ \u20ac75)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,000 (+ \u20ac75)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1K",
+            "accessibilityPrice": "1000\u20ac + 75\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004039,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/3861723.gif?cache=2022011003470",
+        "customerName": "Next Homes",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/10004039_1.gif?cache=20220706120348",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/M_10004039_1.jpg?cache=20220706120348",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/10004039_1.jpg?cache=20220706120348",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/10004039_2.gif?cache=20220706120348",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/M_10004039_2.jpg?cache=20220706120348",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/10004039_2.jpg?cache=20220706120348",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/10004039_3.gif?cache=20220706120348",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/M_10004039_3.jpg?cache=20220706120348",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/3/9/10004039_3.jpg?cache=20220706120348",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Ixelles",
+                "postalCode": "1050",
+                "street": "Avenue du Derby",
+                "number": "53",
+                "box": null,
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 50.8031635,
+                "longitude": 4.3896356,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 100,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1300,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1300,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,300/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,300/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1.3K",
+            "accessibilityPrice": "1300\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004038,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/100x100/4eedd7f2cfc91428efda382056215827.jpg?cache=20220706115324",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/300x300/4eedd7f2cfc91428efda382056215827.jpg?cache=20220706115324",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/736x736/4eedd7f2cfc91428efda382056215827.jpg?cache=20220706115324",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/100x100/88bb93cb75fb7da83d82c42ddfc4a778.jpg?cache=20220706115324",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/300x300/88bb93cb75fb7da83d82c42ddfc4a778.jpg?cache=20220706115324",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/736x736/88bb93cb75fb7da83d82c42ddfc4a778.jpg?cache=20220706115324",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/100x100/e7389393a31a01ac653e9eaad6c11406.jpg?cache=20220706115324",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/300x300/e7389393a31a01ac653e9eaad6c11406.jpg?cache=20220706115324",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/b1ea4110-a644-4cb1-9bff-5dba0309a2c3/736x736/e7389393a31a01ac653e9eaad6c11406.jpg?cache=20220706115324",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Ixelles/Uccle (Bascule), Apartment 2 bdr + mezzanine ",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Ixelles",
+                "postalCode": "1050",
+                "street": null,
+                "number": null,
+                "box": null,
+                "propertyName": null,
+                "floor": 3,
+                "latitude": null,
+                "longitude": null,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": null,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1000,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1000,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,000/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,000/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1K",
+            "accessibilityPrice": "1000\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004036,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/100x100/f2d0baeac2cb3522e18ac198ae1db111.jpg?cache=20220706115901",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/300x300/f2d0baeac2cb3522e18ac198ae1db111.jpg?cache=20220706115901",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/736x736/f2d0baeac2cb3522e18ac198ae1db111.jpg?cache=20220706115901",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/100x100/bee65daa0384828fd95b856bda90a314.jpg?cache=20220706115901",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/300x300/bee65daa0384828fd95b856bda90a314.jpg?cache=20220706115901",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/736x736/bee65daa0384828fd95b856bda90a314.jpg?cache=20220706115901",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/100x100/d29fcbddc7853421252e065a507d722b.jpg?cache=20220706115901",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/300x300/d29fcbddc7853421252e065a507d722b.jpg?cache=20220706115901",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/7bb1e144-1ac8-488c-a746-9ba4a5dd538e/736x736/d29fcbddc7853421252e065a507d722b.jpg?cache=20220706115901",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "GROUND_FLOOR",
+            "title": null,
+            "bedroomCount": 0,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Etterbeek",
+                "postalCode": "1040",
+                "street": "Rue G\u00e9n\u00e9ral Tombeur - Generaal Tombeurstraat",
+                "number": "73",
+                "box": null,
+                "propertyName": null,
+                "floor": 0,
+                "latitude": 50.8349262,
+                "longitude": 4.3954847,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": null,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 940,
+                "monthlyRentalCosts": 10,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 940,
+            "alternativeValue": null,
+            "additionalValue": 10,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac940 (+ \u20ac10)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac940 (+ \u20ac10)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac940",
+            "accessibilityPrice": "940\u20ac + 10\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004033,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/100x100/de672cb9ce9b92277ac147c4a6e21885.jpg?cache=20220706114634",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/300x300/de672cb9ce9b92277ac147c4a6e21885.jpg?cache=20220706114634",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/736x736/de672cb9ce9b92277ac147c4a6e21885.jpg?cache=20220706114634",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/100x100/d113ddf9bc8f25577da76994892b0d4e.jpg?cache=20220706114634",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/300x300/d113ddf9bc8f25577da76994892b0d4e.jpg?cache=20220706114634",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/736x736/d113ddf9bc8f25577da76994892b0d4e.jpg?cache=20220706114634",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/100x100/3c8c8407db0a9cacaf8eb23468f12ad3.jpg?cache=20220706114634",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/300x300/3c8c8407db0a9cacaf8eb23468f12ad3.jpg?cache=20220706114634",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/17748741-6807-462e-875d-b37b7bfe2a6f/736x736/3c8c8407db0a9cacaf8eb23468f12ad3.jpg?cache=20220706114634",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Wallonie",
+                "province": "Namur",
+                "district": "Namur",
+                "locality": "Namur",
+                "postalCode": "5000",
+                "street": "Rue De La Croix",
+                "number": "10",
+                "box": "1",
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 50.4637104,
+                "longitude": 4.8651734,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "WALLONIE",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 35,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": "https://static.immoweb.be/pics/peb/peb_b.png",
+            "certificate": "B",
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 635,
+                "monthlyRentalCosts": 45,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 635,
+            "alternativeValue": null,
+            "additionalValue": 45,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac635 (+ \u20ac45)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac635 (+ \u20ac45)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac635",
+            "accessibilityPrice": "635\u20ac + 45\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004026,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/2210164.gif?cache=2016101403170",
+        "customerName": "Vastgoedhuys",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/10004026_1.gif?cache=20220706114403",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/M_10004026_1.jpg?cache=20220706114403",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/10004026_1.jpg?cache=20220706114403",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/10004026_2.gif?cache=20220706114403",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/M_10004026_2.jpg?cache=20220706114403",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/10004026_2.jpg?cache=20220706114403",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/10004026_3.gif?cache=20220706114403",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/M_10004026_3.jpg?cache=20220706114403",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/2/6/10004026_3.jpg?cache=20220706114403",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Antwerp",
+                "district": "Mechelen",
+                "locality": "NIJLEN",
+                "postalCode": "2560",
+                "street": "Statiestraat",
+                "number": "38",
+                "box": " 102",
+                "propertyName": null,
+                "floor": 0,
+                "latitude": 51.1609583,
+                "longitude": 4.6692937,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 70,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "M",
+            "size": "medium"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 800,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 800,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac800/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac800/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac800",
+            "accessibilityPrice": "800\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004024,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/100x100/55ca9289a1883cbcb3dea9900cb272ef.jpg?cache=20220706114429",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/300x300/55ca9289a1883cbcb3dea9900cb272ef.jpg?cache=20220706114429",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/736x736/55ca9289a1883cbcb3dea9900cb272ef.jpg?cache=20220706114429",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/100x100/1bc04094625fb84939e3db57cbb4e5f1.jpg?cache=20220706114429",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/300x300/1bc04094625fb84939e3db57cbb4e5f1.jpg?cache=20220706114429",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/736x736/1bc04094625fb84939e3db57cbb4e5f1.jpg?cache=20220706114429",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/100x100/dacde8f8d383d1b0752d354a3b5551a0.jpg?cache=20220706114429",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/300x300/dacde8f8d383d1b0752d354a3b5551a0.jpg?cache=20220706114429",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/a5df3898-911b-4795-9cbf-93251124afe2/736x736/dacde8f8d383d1b0752d354a3b5551a0.jpg?cache=20220706114429",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "FLAT_STUDIO",
+            "title": null,
+            "bedroomCount": 0,
+            "location": {
+                "country": "Belgium",
+                "region": "Wallonie",
+                "province": "Namur",
+                "district": "Namur",
+                "locality": "Namur",
+                "postalCode": "5000",
+                "street": "Rue Bas De La Place",
+                "number": "27",
+                "box": null,
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 50.4631249,
+                "longitude": 4.8691525,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "WALLONIE",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 30,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": "https://static.immoweb.be/pics/peb/peb_c.png",
+            "certificate": "C",
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 460,
+                "monthlyRentalCosts": 45,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 460,
+            "alternativeValue": null,
+            "additionalValue": 45,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac460 (+ \u20ac45)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac460 (+ \u20ac45)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac460",
+            "accessibilityPrice": "460\u20ac + 45\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004016,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/100x100/34ae5eda9663255f37f7b3d7f1ac5c4b.jpg?cache=20220706113825",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/300x300/34ae5eda9663255f37f7b3d7f1ac5c4b.jpg?cache=20220706113825",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/736x736/34ae5eda9663255f37f7b3d7f1ac5c4b.jpg?cache=20220706113825",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/100x100/674d85e7e3d7598c41b0244fe29e5fbc.jpg?cache=20220706113825",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/300x300/674d85e7e3d7598c41b0244fe29e5fbc.jpg?cache=20220706113825",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/736x736/674d85e7e3d7598c41b0244fe29e5fbc.jpg?cache=20220706113825",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/100x100/860bad7f54621eb185b0aa27e631f618.jpg?cache=20220706113825",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/300x300/860bad7f54621eb185b0aa27e631f618.jpg?cache=20220706113825",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/092f5686-c29b-4dc8-a387-5eafd524a937/736x736/860bad7f54621eb185b0aa27e631f618.jpg?cache=20220706113825",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Antwerp",
+                "district": "Turnhout",
+                "locality": "Herentals",
+                "postalCode": "2200",
+                "street": "Augustijnenlaan",
+                "number": "71",
+                "box": "202",
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 51.176933,
+                "longitude": 4.846936,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 68,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 625,
+                "monthlyRentalCosts": 50,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 625,
+            "alternativeValue": null,
+            "additionalValue": 50,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac625 (+ \u20ac50)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac625 (+ \u20ac50)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac625",
+            "accessibilityPrice": "625\u20ac + 50\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004015,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1214934.gif?cache=2016511110920",
+        "customerName": "C\u00f4t\u00e9 Immo",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/10004015_1.gif?cache=20220706113904",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/M_10004015_1.jpg?cache=20220706113904",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/10004015_1.jpg?cache=20220706113904",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/10004015_2.gif?cache=20220706113904",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/M_10004015_2.jpg?cache=20220706113904",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/10004015_2.jpg?cache=20220706113904",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/10004015_3.gif?cache=20220706113904",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/M_10004015_3.jpg?cache=20220706113904",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/5/10004015_3.jpg?cache=20220706113904",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "appartement",
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Wallonie",
+                "province": "Hainaut",
+                "district": "Mouscron",
+                "locality": "Herseaux",
+                "postalCode": "7712",
+                "street": "Chauss\u00e9e de Luingne",
+                "number": "405",
+                "box": " 4",
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 50.7364506,
+                "longitude": 3.2330495,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "WALLONIE",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": "Herseaux"
+            },
+            "netHabitableSurface": 118,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": "https://static.immoweb.be/pics/peb/peb_b.png",
+            "certificate": "B",
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 850,
+                "monthlyRentalCosts": 50,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 850,
+            "alternativeValue": null,
+            "additionalValue": 50,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac850 (+ \u20ac50)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac850 (+ \u20ac50)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac850",
+            "accessibilityPrice": "850\u20ac + 50\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004011,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/100x100/1e3e555164df2fc3806a23a739a8991c.jpg?cache=20220706113807",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/300x300/1e3e555164df2fc3806a23a739a8991c.jpg?cache=20220706113807",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/736x736/1e3e555164df2fc3806a23a739a8991c.jpg?cache=20220706113807",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/100x100/5dd7281f2505ad1fab81c08c2d45e38f.jpg?cache=20220706113807",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/300x300/5dd7281f2505ad1fab81c08c2d45e38f.jpg?cache=20220706113807",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/736x736/5dd7281f2505ad1fab81c08c2d45e38f.jpg?cache=20220706113807",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/100x100/9a34944d4165f050f93bc08510b7a1a6.jpg?cache=20220706113807",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/300x300/9a34944d4165f050f93bc08510b7a1a6.jpg?cache=20220706113807",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/afd1b517-e4a4-4697-8f33-2725b90c7614/736x736/9a34944d4165f050f93bc08510b7a1a6.jpg?cache=20220706113807",
+                    "isVertical": true
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "GROUND_FLOOR",
+            "title": null,
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Wallonie",
+                "province": "Li\u00e8ge",
+                "district": "Li\u00e8ge",
+                "locality": "Fl\u00e9ron (Roms\u00e9e)",
+                "postalCode": "4624",
+                "street": "Rue Sauny",
+                "number": "29",
+                "box": null,
+                "propertyName": null,
+                "floor": 0,
+                "latitude": 50.5967538,
+                "longitude": 5.6620924,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "WALLONIE",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 104,
+            "landSurface": null,
+            "roomCount": 7
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1050,
+                "monthlyRentalCosts": 10,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1050,
+            "alternativeValue": null,
+            "additionalValue": 10,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,050 (+ \u20ac10)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,050 (+ \u20ac10)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1.1K",
+            "accessibilityPrice": "1050\u20ac + 10\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004010,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/2179.gif?cache=2017150808353",
+        "customerName": "Address Real Estate",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/10004010_1.gif?cache=20220706113859",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/M_10004010_1.jpg?cache=20220706113859",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/10004010_1.jpg?cache=20220706113859",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/10004010_2.gif?cache=20220706113859",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/M_10004010_2.jpg?cache=20220706113859",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/10004010_2.jpg?cache=20220706113859",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/10004010_3.gif?cache=20220706113859",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/M_10004010_3.jpg?cache=20220706113859",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/1/0/10004010_3.jpg?cache=20220706113859",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment with two terraces",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Uccle",
+                "postalCode": "1180",
+                "street": "Avenue Ch\u00e2teau Walzin",
+                "number": "9",
+                "box": null,
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 50.8082813,
+                "longitude": 4.3450681,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 98,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1150,
+                "monthlyRentalCosts": 200,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1150,
+            "alternativeValue": null,
+            "additionalValue": 200,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,150 (+ \u20ac200)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,150 (+ \u20ac200)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1.2K",
+            "accessibilityPrice": "1150\u20ac + 200\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004009,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/2179.gif?cache=2017150808353",
+        "customerName": "Address Real Estate",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/10004009_1.gif?cache=20220706113855",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/M_10004009_1.jpg?cache=20220706113855",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/10004009_1.jpg?cache=20220706113855",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/10004009_2.gif?cache=20220706113855",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/M_10004009_2.jpg?cache=20220706113855",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/10004009_2.jpg?cache=20220706113855",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/10004009_3.gif?cache=20220706113855",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/M_10004009_3.jpg?cache=20220706113855",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/9/10004009_3.jpg?cache=20220706113855",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment close to parc Duden",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Forest",
+                "postalCode": "1190",
+                "street": null,
+                "number": null,
+                "box": null,
+                "propertyName": null,
+                "floor": 3,
+                "latitude": null,
+                "longitude": null,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 140,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1550,
+                "monthlyRentalCosts": 300,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1550,
+            "alternativeValue": null,
+            "additionalValue": 300,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,550 (+ \u20ac300)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,550 (+ \u20ac300)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1.6K",
+            "accessibilityPrice": "1550\u20ac + 300\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004008,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/100x100/d1196c4238bc9848a9808086fa53caf1.jpg?cache=20220706113411",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/300x300/d1196c4238bc9848a9808086fa53caf1.jpg?cache=20220706113411",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/736x736/d1196c4238bc9848a9808086fa53caf1.jpg?cache=20220706113411",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/100x100/18d07581e559bcb0d7d293c8515a7bc4.jpg?cache=20220706113411",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/300x300/18d07581e559bcb0d7d293c8515a7bc4.jpg?cache=20220706113411",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/736x736/18d07581e559bcb0d7d293c8515a7bc4.jpg?cache=20220706113411",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/100x100/e915178f320f307aae6b12cd1a7fde4c.jpg?cache=20220706113411",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/300x300/e915178f320f307aae6b12cd1a7fde4c.jpg?cache=20220706113411",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/a763f566-5889-4a8e-9fa1-8022a90f77f6/736x736/e915178f320f307aae6b12cd1a7fde4c.jpg?cache=20220706113411",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "DUPLEX",
+            "title": null,
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Antwerp",
+                "district": "Antwerp",
+                "locality": "Antwerpen",
+                "postalCode": "2170",
+                "street": "De Lunden",
+                "number": "25",
+                "box": null,
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 51.2561739,
+                "longitude": 4.4499658,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 130,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 830,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 830,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac830/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac830/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac830",
+            "accessibilityPrice": "830\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004006,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/100x100/250bc711fd886f30f940e37246292240.jpg?cache=20220706113338",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/300x300/250bc711fd886f30f940e37246292240.jpg?cache=20220706113338",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/736x736/250bc711fd886f30f940e37246292240.jpg?cache=20220706113338",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/100x100/c181da9d4d6a6fe0965bf7c98149616f.jpg?cache=20220706113338",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/300x300/c181da9d4d6a6fe0965bf7c98149616f.jpg?cache=20220706113338",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/736x736/c181da9d4d6a6fe0965bf7c98149616f.jpg?cache=20220706113338",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/100x100/ef8b5471be27f2330042873eaef42ca9.jpg?cache=20220706113338",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/300x300/ef8b5471be27f2330042873eaef42ca9.jpg?cache=20220706113338",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/61dd8973-388b-44a2-8951-79c0c837a28d/736x736/ef8b5471be27f2330042873eaef42ca9.jpg?cache=20220706113338",
+                    "isVertical": true
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "West Flanders",
+                "district": "Veurne",
+                "locality": "Nieuwpoort",
+                "postalCode": "8620",
+                "street": "Kaai",
+                "number": "44",
+                "box": null,
+                "propertyName": null,
+                "floor": 3,
+                "latitude": 51.1330433,
+                "longitude": 2.7470745,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 80,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 840,
+                "monthlyRentalCosts": 60,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 840,
+            "alternativeValue": null,
+            "additionalValue": 60,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac840 (+ \u20ac60)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac840 (+ \u20ac60)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac840",
+            "accessibilityPrice": "840\u20ac + 60\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 9927988,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1274842.gif?cache=2022591306657",
+        "customerName": "Hans immo",
+        "flags": {
+            "main": null,
+            "secondary": [
+                "new_price"
+            ],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/9927988_1.gif?cache=20220523182845",
+                    "mediumUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/M_9927988_1.jpg?cache=20220523182845",
+                    "largeUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/9927988_1.jpg?cache=20220523182845",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/9927988_2.gif?cache=20220523182845",
+                    "mediumUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/M_9927988_2.jpg?cache=20220523182845",
+                    "largeUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/9927988_2.jpg?cache=20220523182845",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/9927988_3.gif?cache=20220523182845",
+                    "mediumUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/M_9927988_3.jpg?cache=20220523182845",
+                    "largeUrl": "https://static.immoweb.be/photos/0/9/9/2/7/9/8/8/9927988_3.jpg?cache=20220523182845",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Antwerp",
+                "district": "Antwerp",
+                "locality": "Kapellen",
+                "postalCode": "2950",
+                "street": "Essenhoutstraat",
+                "number": "2c",
+                "box": " 1v",
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 51.3141205,
+                "longitude": 4.4276866,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 115,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1000,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1000,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,000/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,000/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1K",
+            "accessibilityPrice": "1000\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004003,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/100x100/23f520e7be2a9249b2f2be439e7dc7c5.jpg?cache=20220706113001",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/300x300/23f520e7be2a9249b2f2be439e7dc7c5.jpg?cache=20220706113001",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/736x736/23f520e7be2a9249b2f2be439e7dc7c5.jpg?cache=20220706113001",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/100x100/54d0ef23e49d9f2b26d3452b941de212.jpg?cache=20220706113001",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/300x300/54d0ef23e49d9f2b26d3452b941de212.jpg?cache=20220706113001",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/736x736/54d0ef23e49d9f2b26d3452b941de212.jpg?cache=20220706113001",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/100x100/68534eab973401b9780eb761e83224b8.jpg?cache=20220706113001",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/300x300/68534eab973401b9780eb761e83224b8.jpg?cache=20220706113001",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/f36dcabf-e335-435a-a645-61c11590b926/736x736/68534eab973401b9780eb761e83224b8.jpg?cache=20220706113001",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "FLAT_STUDIO",
+            "title": null,
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Wallonie",
+                "province": "Li\u00e8ge",
+                "district": "Li\u00e8ge",
+                "locality": "Li\u00e8ge",
+                "postalCode": "4000",
+                "street": "Rue Du Pont",
+                "number": "47",
+                "box": "02",
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 50.644746,
+                "longitude": 5.5779847,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "WALLONIE",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": null,
+            "landSurface": null,
+            "roomCount": 2
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 550,
+                "monthlyRentalCosts": 90,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 550,
+            "alternativeValue": null,
+            "additionalValue": 90,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac550 (+ \u20ac90)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac550 (+ \u20ac90)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac550",
+            "accessibilityPrice": "550\u20ac + 90\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004002,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1508548.gif?cache=2017201411593",
+        "customerName": "IMMO WOON !",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/10004002_1.gif?cache=20220706113406",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/M_10004002_1.jpg?cache=20220706113406",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/10004002_1.jpg?cache=20220706113406",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/10004002_2.gif?cache=20220706113406",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/M_10004002_2.jpg?cache=20220706113406",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/10004002_2.jpg?cache=20220706113406",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/10004002_3.gif?cache=20220706113406",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/M_10004002_3.jpg?cache=20220706113406",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/2/10004002_3.jpg?cache=20220706113406",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment",
+            "bedroomCount": 3,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "West Flanders",
+                "district": "Brugge",
+                "locality": "VARSENARE",
+                "postalCode": "8490",
+                "street": "Gistelsteenweg",
+                "number": "185",
+                "box": " V2A2",
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 51.1814577,
+                "longitude": 3.1390677,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 137,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 950,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 950,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac950/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac950/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac950",
+            "accessibilityPrice": "950\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004001,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1508548.gif?cache=2017201411593",
+        "customerName": "IMMO WOON !",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/10004001_1.gif?cache=20220706113405",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/M_10004001_1.jpg?cache=20220706113405",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/10004001_1.jpg?cache=20220706113405",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/10004001_2.gif?cache=20220706113405",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/M_10004001_2.jpg?cache=20220706113405",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/10004001_2.jpg?cache=20220706113405",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/10004001_3.gif?cache=20220706113405",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/M_10004001_3.jpg?cache=20220706113405",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/1/10004001_3.jpg?cache=20220706113405",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "West Flanders",
+                "district": "Brugge",
+                "locality": "SINT-ANDRIES",
+                "postalCode": "8200",
+                "street": "Gistelse Steenweg",
+                "number": "364",
+                "box": " 302",
+                "propertyName": null,
+                "floor": 3,
+                "latitude": 51.1992343,
+                "longitude": 3.1900822,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": null,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 675,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 675,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac675/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac675/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac675",
+            "accessibilityPrice": "675\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10004000,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1508548.gif?cache=2017201411593",
+        "customerName": "IMMO WOON !",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/10004000_1.gif?cache=20220706113404",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/M_10004000_1.jpg?cache=20220706113404",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/10004000_1.jpg?cache=20220706113404",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/10004000_2.gif?cache=20220706113404",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/M_10004000_2.jpg?cache=20220706113404",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/10004000_2.jpg?cache=20220706113404",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/10004000_3.gif?cache=20220706113405",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/M_10004000_3.jpg?cache=20220706113405",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/4/0/0/0/10004000_3.jpg?cache=20220706113405",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "West Flanders",
+                "district": "Brugge",
+                "locality": "VARSENARE",
+                "postalCode": "8490",
+                "street": "Nieuwenhovedreef",
+                "number": "35B",
+                "box": " 0105",
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 51.1831069,
+                "longitude": 3.1400117,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 100,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 925,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 925,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac925/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac925/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac925",
+            "accessibilityPrice": "925\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003999,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1508548.gif?cache=2017201411593",
+        "customerName": "IMMO WOON !",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/10003999_1.gif?cache=20220706113404",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/M_10003999_1.jpg?cache=20220706113404",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/10003999_1.jpg?cache=20220706113404",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/10003999_2.gif?cache=20220706113404",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/M_10003999_2.jpg?cache=20220706113404",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/10003999_2.jpg?cache=20220706113404",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/10003999_3.gif?cache=20220706113404",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/M_10003999_3.jpg?cache=20220706113404",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/9/10003999_3.jpg?cache=20220706113404",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Apartment",
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "West Flanders",
+                "district": "Oostend",
+                "locality": "Mariakerke",
+                "postalCode": "8400",
+                "street": "Sint-Amandsberglaan",
+                "number": "48",
+                "box": " 0002",
+                "propertyName": null,
+                "floor": 0,
+                "latitude": 51.2124222,
+                "longitude": 2.8890393,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": null,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 560,
+                "monthlyRentalCosts": null,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 560,
+            "alternativeValue": null,
+            "additionalValue": null,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac560/month",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac560/month</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac560",
+            "accessibilityPrice": "560\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003998,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": null,
+        "customerName": "PRIVATE",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/100x100/afc76e9ba46cc52e367b358c20b884f7.jpg?cache=20220706112706",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/300x300/afc76e9ba46cc52e367b358c20b884f7.jpg?cache=20220706112706",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/736x736/afc76e9ba46cc52e367b358c20b884f7.jpg?cache=20220706112706",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/100x100/415b61f83dcac75c4247445bb1479717.jpg?cache=20220706112706",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/300x300/415b61f83dcac75c4247445bb1479717.jpg?cache=20220706112706",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/736x736/415b61f83dcac75c4247445bb1479717.jpg?cache=20220706112706",
+                    "isVertical": true
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/100x100/95a57cf718d1412271b2619575c77ae1.jpg?cache=20220706112706",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/300x300/95a57cf718d1412271b2619575c77ae1.jpg?cache=20220706112706",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/2ff686b3-cc8e-41b5-b105-68e781780013/736x736/95a57cf718d1412271b2619575c77ae1.jpg?cache=20220706112706",
+                    "isVertical": true
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Antwerp",
+                "district": "Antwerp",
+                "locality": "Antwerpen",
+                "postalCode": "2610",
+                "street": "Ringlaan",
+                "number": "72",
+                "box": null,
+                "propertyName": null,
+                "floor": 4,
+                "latitude": 51.1777446,
+                "longitude": 4.428788,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 82,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 850,
+                "monthlyRentalCosts": 110,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 850,
+            "alternativeValue": null,
+            "additionalValue": 110,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac850 (+ \u20ac110)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac850 (+ \u20ac110)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac850",
+            "accessibilityPrice": "850\u20ac + 110\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003997,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/299695.gif?cache=2021050704247",
+        "customerName": "Exper Immo Orta",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/10003997_1.gif?cache=20220706112906",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/M_10003997_1.jpg?cache=20220706112906",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/10003997_1.jpg?cache=20220706112906",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/10003997_2.gif?cache=20220706112906",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/M_10003997_2.jpg?cache=20220706112906",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/10003997_2.jpg?cache=20220706112906",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/10003997_3.gif?cache=20220706112906",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/M_10003997_3.jpg?cache=20220706112906",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/7/10003997_3.jpg?cache=20220706112906",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Appartement 3 Sl.",
+            "bedroomCount": 3,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "East Flanders",
+                "district": "Oudenaarde",
+                "locality": "Ronse",
+                "postalCode": "9600",
+                "street": "Albert Vandeputtestraat",
+                "number": "36 / 0401",
+                "box": null,
+                "propertyName": null,
+                "floor": 4,
+                "latitude": 50.739562,
+                "longitude": 3.5913048,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 102,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "M",
+            "size": "medium"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 695,
+                "monthlyRentalCosts": 50,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 695,
+            "alternativeValue": null,
+            "additionalValue": 50,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac695 (+ \u20ac50)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac695 (+ \u20ac50)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac695",
+            "accessibilityPrice": "695\u20ac + 50\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003996,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/299695.gif?cache=2021050704247",
+        "customerName": "Exper Immo Orta",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/10003996_1.gif?cache=20220706112905",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/M_10003996_1.jpg?cache=20220706112905",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/10003996_1.jpg?cache=20220706112905",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/10003996_2.gif?cache=20220706112905",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/M_10003996_2.jpg?cache=20220706112905",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/10003996_2.jpg?cache=20220706112905",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/10003996_3.gif?cache=20220706112905",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/M_10003996_3.jpg?cache=20220706112905",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/6/10003996_3.jpg?cache=20220706112905",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Appartement 3 Sl.",
+            "bedroomCount": 3,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "East Flanders",
+                "district": "Oudenaarde",
+                "locality": "Ronse",
+                "postalCode": "9600",
+                "street": "Albert Vandeputtestraat",
+                "number": "36 / 0301",
+                "box": null,
+                "propertyName": null,
+                "floor": 3,
+                "latitude": 50.739562,
+                "longitude": 3.5913048,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 104,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "M",
+            "size": "medium"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 695,
+                "monthlyRentalCosts": 50,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 695,
+            "alternativeValue": null,
+            "additionalValue": 50,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac695 (+ \u20ac50)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac695 (+ \u20ac50)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac695",
+            "accessibilityPrice": "695\u20ac + 50\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003995,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/299695.gif?cache=2021050704247",
+        "customerName": "Exper Immo Orta",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/10003995_1.gif?cache=20220706112905",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/M_10003995_1.jpg?cache=20220706112905",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/10003995_1.jpg?cache=20220706112905",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/10003995_2.gif?cache=20220706112905",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/M_10003995_2.jpg?cache=20220706112905",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/10003995_2.jpg?cache=20220706112905",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/10003995_3.gif?cache=20220706112905",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/M_10003995_3.jpg?cache=20220706112905",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/9/5/10003995_3.jpg?cache=20220706112905",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Appartement 1 Sl.",
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "East Flanders",
+                "district": "Oudenaarde",
+                "locality": "Ronse",
+                "postalCode": "9600",
+                "street": "Albert Vandeputtestraat",
+                "number": "36 / 0101",
+                "box": null,
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 50.739562,
+                "longitude": 3.5913048,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 62,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "M",
+            "size": "medium"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 550,
+                "monthlyRentalCosts": 50,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 550,
+            "alternativeValue": null,
+            "additionalValue": 50,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac550 (+ \u20ac50)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac550 (+ \u20ac50)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac550",
+            "accessibilityPrice": "550\u20ac + 50\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 9923594,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/781019.gif?cache=2021141109853",
+        "customerName": "ERA Visie Plus N.V.",
+        "flags": {
+            "main": null,
+            "secondary": [
+                "new_price"
+            ],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/100x100/a1df986bb8f6bc1ae2ce521fc6cec831.jpg?cache=20220706112600",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/300x300/a1df986bb8f6bc1ae2ce521fc6cec831.jpg?cache=20220706112600",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/736x736/a1df986bb8f6bc1ae2ce521fc6cec831.jpg?cache=20220706112600",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/100x100/fc3c2ca5db2cb30169d3166d73a95d32.jpg?cache=20220706112600",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/300x300/fc3c2ca5db2cb30169d3166d73a95d32.jpg?cache=20220706112600",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/736x736/fc3c2ca5db2cb30169d3166d73a95d32.jpg?cache=20220706112600",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/100x100/146310a141b549ec664af44b9ece378f.jpg?cache=20220706112600",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/300x300/146310a141b549ec664af44b9ece378f.jpg?cache=20220706112600",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/fc047d05-d52d-4518-8b40-14cec5be6604/736x736/146310a141b549ec664af44b9ece378f.jpg?cache=20220706112600",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Flemish Brabant",
+                "district": "Halle-Vilvoorde",
+                "locality": "Dilbeek",
+                "postalCode": "1700",
+                "street": "Berchemstraat",
+                "number": "67a",
+                "box": "V3",
+                "propertyName": null,
+                "floor": 3,
+                "latitude": 50.8475644,
+                "longitude": 4.2725943,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 60,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 700,
+                "monthlyRentalCosts": 30,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 700,
+            "alternativeValue": null,
+            "additionalValue": 30,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac700 (+ \u20ac30)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac700 (+ \u20ac30)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac700",
+            "accessibilityPrice": "700\u20ac + 30\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 9923604,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/781019.gif?cache=2021141109853",
+        "customerName": "ERA Visie Plus N.V.",
+        "flags": {
+            "main": null,
+            "secondary": [
+                "new_price"
+            ],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/100x100/a1df986bb8f6bc1ae2ce521fc6cec831.jpg?cache=20220706112523",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/300x300/a1df986bb8f6bc1ae2ce521fc6cec831.jpg?cache=20220706112523",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/736x736/a1df986bb8f6bc1ae2ce521fc6cec831.jpg?cache=20220706112523",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/100x100/ec54181fbedb71f471549dea746a5258.jpg?cache=20220706112523",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/300x300/ec54181fbedb71f471549dea746a5258.jpg?cache=20220706112523",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/736x736/ec54181fbedb71f471549dea746a5258.jpg?cache=20220706112523",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/100x100/4b3314c1450f09476c8d78db4681f915.jpg?cache=20220706112523",
+                    "mediumUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/300x300/4b3314c1450f09476c8d78db4681f915.jpg?cache=20220706112523",
+                    "largeUrl": "https://media-resize.immowebstatic.be/classifieds/2acdace3-aff0-4a26-b790-5089eeac4b21/736x736/4b3314c1450f09476c8d78db4681f915.jpg?cache=20220706112523",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": null,
+            "bedroomCount": 1,
+            "location": {
+                "country": "Belgium",
+                "region": "Flanders",
+                "province": "Flemish Brabant",
+                "district": "Halle-Vilvoorde",
+                "locality": "Dilbeek",
+                "postalCode": "1700",
+                "street": "Berchemstraat",
+                "number": "67A",
+                "box": "V2",
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 50.8475644,
+                "longitude": 4.2725943,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "FLANDERS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": null
+            },
+            "netHabitableSurface": 60,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "L",
+            "size": "large"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 750,
+                "monthlyRentalCosts": 30,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 750,
+            "alternativeValue": null,
+            "additionalValue": 30,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac750 (+ \u20ac30)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac750 (+ \u20ac30)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac750",
+            "accessibilityPrice": "750\u20ac + 30\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003984,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1716917.gif?cache=2016071403300",
+        "customerName": "Upgrade Immo",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/10003984_1.gif?cache=20220706112421",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/M_10003984_1.jpg?cache=20220706112421",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/10003984_1.jpg?cache=20220706112421",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/10003984_2.gif?cache=20220706112421",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/M_10003984_2.jpg?cache=20220706112421",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/10003984_2.jpg?cache=20220706112421",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/10003984_3.gif?cache=20220706112421",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/M_10003984_3.jpg?cache=20220706112421",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/4/10003984_3.jpg?cache=20220706112421",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Ch\u00e2telain - 3 bedroom flat with balcony",
+            "bedroomCount": 3,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Ixelles",
+                "postalCode": "1050",
+                "street": "Rue Blanche",
+                "number": "35",
+                "box": null,
+                "propertyName": null,
+                "floor": 1,
+                "latitude": 50.8300106,
+                "longitude": 4.3574558,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": "Ch\u00e2telain"
+            },
+            "netHabitableSurface": 170,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1950,
+                "monthlyRentalCosts": 150,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1950,
+            "alternativeValue": null,
+            "additionalValue": 150,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,950 (+ \u20ac150)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,950 (+ \u20ac150)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac2K",
+            "accessibilityPrice": "1950\u20ac + 150\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003983,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1716917.gif?cache=2016071403300",
+        "customerName": "Upgrade Immo",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/10003983_1.gif?cache=20220706112420",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/M_10003983_1.jpg?cache=20220706112420",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/10003983_1.jpg?cache=20220706112420",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/10003983_2.gif?cache=20220706112420",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/M_10003983_2.jpg?cache=20220706112420",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/10003983_2.jpg?cache=20220706112420",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/10003983_3.gif?cache=20220706112420",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/M_10003983_3.jpg?cache=20220706112420",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/3/10003983_3.jpg?cache=20220706112420",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Ch\u00e2telain - Furnished 3 bed flat",
+            "bedroomCount": 3,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Ixelles",
+                "postalCode": "1050",
+                "street": "Rue Blanche",
+                "number": "31",
+                "box": null,
+                "propertyName": null,
+                "floor": 2,
+                "latitude": 50.8301247,
+                "longitude": 4.3576689,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": "Ch\u00e2telain"
+            },
+            "netHabitableSurface": 177,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 2400,
+                "monthlyRentalCosts": 200,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 2400,
+            "alternativeValue": null,
+            "additionalValue": 200,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac2,400 (+ \u20ac200)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac2,400 (+ \u20ac200)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac2.4K",
+            "accessibilityPrice": "2400\u20ac + 200\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    },
+    {
+        "id": 10003982,
+        "cluster": {
+            "minPrice": null,
+            "maxPrice": null,
+            "minRoom": null,
+            "maxRoom": null,
+            "minSurface": null,
+            "maxSurface": null,
+            "projectInfo": null,
+            "bedroomRange": "",
+            "surfaceRange": ""
+        },
+        "customerLogoUrl": "https://static.immoweb.be/logos/1716917.gif?cache=2016071403300",
+        "customerName": "Upgrade Immo",
+        "flags": {
+            "main": "new",
+            "secondary": [],
+            "percentSold": null
+        },
+        "media": {
+            "pictures": [
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/10003982_1.gif?cache=20220706112419",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/M_10003982_1.jpg?cache=20220706112419",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/10003982_1.jpg?cache=20220706112419",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/10003982_2.gif?cache=20220706112419",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/M_10003982_2.jpg?cache=20220706112419",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/10003982_2.jpg?cache=20220706112419",
+                    "isVertical": false
+                },
+                {
+                    "smallUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/10003982_3.gif?cache=20220706112419",
+                    "mediumUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/M_10003982_3.jpg?cache=20220706112419",
+                    "largeUrl": "https://static.immoweb.be/photos/1/0/0/0/3/9/8/2/10003982_3.jpg?cache=20220706112419",
+                    "isVertical": false
+                }
+            ]
+        },
+        "property": {
+            "type": "APARTMENT",
+            "subtype": "APARTMENT",
+            "title": "Louise, furnished 2 bed flat with terrace",
+            "bedroomCount": 2,
+            "location": {
+                "country": "Belgium",
+                "region": "Brussels",
+                "province": "Brussels",
+                "district": "Brussels",
+                "locality": "Ixelles",
+                "postalCode": "1050",
+                "street": "Rue Capitaine Crespel",
+                "number": "40",
+                "box": null,
+                "propertyName": null,
+                "floor": 3,
+                "latitude": 50.8349123,
+                "longitude": 4.358149,
+                "distance": null,
+                "approximated": null,
+                "regionCode": "BRUSSELS",
+                "type": null,
+                "hasSeaView": null,
+                "pointsOfInterest": null,
+                "placeName": "Louise"
+            },
+            "netHabitableSurface": 89,
+            "landSurface": null,
+            "roomCount": null
+        },
+        "publication": {
+            "publisherId": null,
+            "visualisationOption": "XL",
+            "size": "xl"
+        },
+        "transaction": {
+            "certificateLogoUrl": null,
+            "certificate": null,
+            "type": "FOR_RENT",
+            "rental": {
+                "monthlyRentalPrice": 1500,
+                "monthlyRentalCosts": 150,
+                "yearlyRentalPrice": null,
+                "yearlyRentalPricePerSqm": null
+            },
+            "sale": null
+        },
+        "priceType": null,
+        "price": {
+            "type": "residential_monthly_rent",
+            "mainValue": 1500,
+            "alternativeValue": null,
+            "additionalValue": 150,
+            "oldValue": null,
+            "minRangeValue": null,
+            "maxRangeValue": null,
+            "mainDisplayPrice": "\u20ac1,500 (+ \u20ac150)",
+            "HTMLDisplayPrice": "<span aria-hidden=\"true\">\u20ac1,500 (+ \u20ac150)</span>",
+            "alternativeDisplayPrice": "",
+            "oldDisplayPrice": null,
+            "shortDisplayPrice": "\u20ac1.5K",
+            "accessibilityPrice": "1500\u20ac + 150\u20ac per month",
+            "label": "Requested monthly rental price",
+            "date": null,
+            "language": "en"
+        },
+        "isBookmarked": false,
+        "has360Tour": null,
+        "hasVirtualTour": null,
+        "advertisementId": null
+    }
+]
