@@ -131,8 +131,5 @@ dmypy.json
 # Help
 examples/
 
-# tests
-test/
-
-# data
-data/
+# Tests
+tests/
